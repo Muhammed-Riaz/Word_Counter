@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "firequiz": "^0.0.5",
+    "inquirer": "^9.2.19"
+  },
+  "name": "riaz_word_counter",
+  "description": "this is a word_counter sentence project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
